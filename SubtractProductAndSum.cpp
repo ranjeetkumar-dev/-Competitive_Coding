@@ -25,6 +25,6 @@ int main()
 {
 
     Solution s;
-    cout << s.subtractProductAndSum(986);
+    cout << s.subtractProductAndSum(98788);
     return 0;
 }
