@@ -1,3 +1,5 @@
+#include <iostream>
+using namespace std;
 class Solution
 {
 public:
@@ -18,3 +20,11 @@ public:
         return product - sum;
     }
 };
+
+int main()
+{
+
+    Solution s;
+    cout << s.subtractProductAndSum(986);
+    return 0;
+}
