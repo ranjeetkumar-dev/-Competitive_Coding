@@ -52,5 +52,5 @@ int main()
     // cout<<deciToBin(n);
     decToBin(n);
 
-    return 0;
+    return 0; 
 }
